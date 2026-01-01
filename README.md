@@ -24,7 +24,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=cs,nodejs,java" />
 </p>
 
 ---
