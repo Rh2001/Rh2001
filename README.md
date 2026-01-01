@@ -45,7 +45,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rider,intellij,docker,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=rider,docker,visualstudio,vscode" />
 </p>
 
 ---
