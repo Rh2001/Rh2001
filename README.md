@@ -1,16 +1,66 @@
-## Hi there 👋
+Hi, I'm Roham, a Master's Student in Software Engineering currently studying at LUT University.
 
-<!--
-**Rh2001/Rh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer with years of experience** building backend and data-intensive systems, developing video games, and creating scalable web services.
 
-Here are some ideas to get you started:
+I enjoy programming backend infrastructures, but also know how to do frontend and web design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack
+
+###  Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+</p>
+
+---
+
+###  Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark" />
+</p>
+
+---
+
+###  Databases
+
+**SQL**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mssql&theme=dark" />
+</p>
+
+**NoSQL**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=dark&perline=4" />
+</p>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+##  What I Work On
+- Backend systems & APIs
+- Data-intensive applications
+- Game development (scripts, gameplay systems)
+- Scalable web services
+
+---
+
+##  My LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/roham-h-fasih/
