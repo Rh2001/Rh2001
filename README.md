@@ -8,6 +8,17 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ##  Tech Stack
 
+###  Languages & Runtimes
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light" />
+  </picture>
+</p>
+
+---
+
 ###  Frontend
 <p align="left">
   <picture>
@@ -52,6 +63,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ---
 
+###  Full Stack Overview
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=dark&perline=4">
@@ -62,24 +74,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ---
 
-##  GitHub Stats
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rh2001&show_icons=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rh2001&show_icons=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rh2001&show_icons=true&theme=default" />
-  </picture>
-</p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh2001&layout=compact&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh2001&layout=compact&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh2001&layout=compact&theme=default" />
-  </picture>
-</p>
-
----
 
 ##  What I Work On
 - Backend systems & APIs  
