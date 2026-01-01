@@ -1,8 +1,8 @@
-Hi, I'm Roham, a Master's Student in Software Engineering currently studying at LUT University.
+Hi, I'm Roham — a Master's student in Software Engineering currently studying at **LUT University**.
 
-I'm a **Software Developer with years of experience** building peformant backend and data-intensive systems, developing video games, and creating scalable web services.
+I'm a **Software Developer with several years of experience** building performant backend and data-intensive systems, developing video games, and creating scalable web services.
 
-I enjoy programming backend infrastructures, but also know how to do frontend and web design. 
+I primarily focus on backend infrastructure and system design, while also having experience with frontend development and web design.
 
 ---
 
@@ -10,14 +10,22 @@ I enjoy programming backend infrastructures, but also know how to do frontend an
 
 ###  Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tailwind&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,tailwind&theme=light">
+    <img src="https://skillicons.dev/icons?i=react,tailwind&theme=light" />
+  </picture>
 </p>
 
 ---
 
 ###  Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light" />
+  </picture>
 </p>
 
 ---
@@ -26,42 +34,60 @@ I enjoy programming backend infrastructures, but also know how to do frontend an
 
 **SQL**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mssql&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,mssql&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,mssql&theme=light">
+    <img src="https://skillicons.dev/icons?i=mysql,mssql&theme=light" />
+  </picture>
 </p>
 
 **NoSQL**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+  </picture>
 </p>
 
 ---
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=dark&perline=4" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=dark&perline=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=light&perline=4">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=light&perline=4" />
+  </picture>
 </p>
 
 ---
 
-## GitHub Stats
+##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rh2001&show_icons=true&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rh2001&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rh2001&show_icons=true&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rh2001&show_icons=true&theme=default" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh2001&layout=compact&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh2001&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh2001&layout=compact&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh2001&layout=compact&theme=default" />
+  </picture>
 </p>
 
 ---
 
 ##  What I Work On
-- Backend systems & APIs
-- Data-intensive applications
-- Game development (scripts, gameplay systems)
-- Scalable web services
+- Backend systems & APIs  
+- Data-intensive applications  
+- Game development (scripts, gameplay systems)  
+- Scalable web services  
 
 ---
 
-##  My LinkedIn:
-- LinkedIn: https://www.linkedin.com/in/roham-h-fasih/
+##  Connect With Me on LinkedIn
+- **LinkedIn:** https://www.linkedin.com/in/roham-h-fasih/
