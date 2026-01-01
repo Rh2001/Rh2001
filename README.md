@@ -9,50 +9,39 @@ I primarily focus on backend infrastructure and system design, while also having
 ##  Tech Stack
 
 ###  Languages & Runtimes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark" #gh-dark-mode-only />
-  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light" #gh-light-mode-only />
-</p>
+![Languages Dark](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark) 
+![Languages Light](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light) 
 
 ---
 
 ###  Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" #gh-dark-mode-only />
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=light" #gh-light-mode-only />
-</p>
+![Frontend Dark](https://skillicons.dev/icons?i=react,tailwind&theme=dark) 
+![Frontend Light](https://skillicons.dev/icons?i=react,tailwind&theme=light) 
 
 ---
 
 ###  Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark" #gh-dark-mode-only />
-  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light" #gh-light-mode-only />
-</p>
+![Backend Dark](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark) 
+![Backend Light](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light) 
 
 ---
 
 ###  Databases
 
-**SQL**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mssql&theme=dark" #gh-dark-mode-only />
-  <img src="https://skillicons.dev/icons?i=mysql,mssql&theme=light" #gh-light-mode-only />
-</p>
+**SQL**  
+![SQL Dark](https://skillicons.dev/icons?i=mysql,mssql&theme=dark) 
+![SQL Light](https://skillicons.dev/icons?i=mysql,mssql&theme=light) 
 
-**NoSQL**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" #gh-dark-mode-only />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" #gh-light-mode-only />
-</p>
+**NoSQL**  
+![NoSQL Dark](https://skillicons.dev/icons?i=mongodb&theme=dark) 
+![NoSQL Light](https://skillicons.dev/icons?i=mongodb&theme=light) 
 
 ---
 
 ###  Full Stack Overview
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=dark&perline=4" #gh-dark-mode-only />
-  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=light&perline=4" #gh-light-mode-only />
-</p>
+![Stack Dark](https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=dark&perline=4) <!-- #gh-dark-mode-only -->
+![Stack Light](https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=light&perline=4) <!-- #gh-light-mode-only -->
+
 
 
 ---
