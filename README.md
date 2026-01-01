@@ -2,7 +2,7 @@ Hi, I'm Roham — a Master's student in Software Engineering currently studying 
 
 I'm a **Software Developer with several years of experience** building performant backend and data-intensive systems, developing video games, and creating scalable web services.
 
-I primarily focus on backend infrastructure and system design, while also having experience with frontend development and web design.
+I primarily focus on backend infrastructure and system design, while also having experience with frontend development and web design. I'm open to and eager to learn any new frameworks or languages and I'm highly motivated to improve my knowledge.
 
 ---
 
