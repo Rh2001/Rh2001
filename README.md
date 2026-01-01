@@ -52,7 +52,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Full Stack Overview
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp, js,cs,nodejs,java,mysql,mongodb,rider,docker,visualstudio,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,js,cs,nodejs,java,mysql,mongodb,rider,docker,visualstudio,vscode&perline=7" />
 </p>
 
 ---
