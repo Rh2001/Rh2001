@@ -6,49 +6,58 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-###  Languages & Runtimes
-![Languages Dark](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark) 
-![Languages Light](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light) 
-
----
-
-###  Frontend
-![Frontend Dark](https://skillicons.dev/icons?i=react,tailwind&theme=dark) 
-![Frontend Light](https://skillicons.dev/icons?i=react,tailwind&theme=light) 
+### Languages & Runtimes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs,java" />
+</p>
 
 ---
 
-###  Backend
-![Backend Dark](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=dark) 
-![Backend Light](https://skillicons.dev/icons?i=cpp,cs,nodejs&theme=light) 
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
 ---
 
-###  Databases
-
-**SQL**  
-![SQL Dark](https://skillicons.dev/icons?i=mysql,mssql&theme=dark) 
-![SQL Light](https://skillicons.dev/icons?i=mysql,mssql&theme=light) 
-
-**NoSQL**  
-![NoSQL Dark](https://skillicons.dev/icons?i=mongodb&theme=dark) 
-![NoSQL Light](https://skillicons.dev/icons?i=mongodb&theme=light) 
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,nodejs,java" />
+</p>
 
 ---
 
-###  Full Stack Overview
-![Stack Dark](https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=dark&perline=4) <!-- #gh-dark-mode-only -->
-![Stack Light](https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,mysql,mssql,mongodb&theme=light&perline=4) <!-- #gh-light-mode-only -->
+### Databases
 
+**SQL**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mssql" />
+</p>
 
+**NoSQL**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ---
 
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rider,intellij,docker,visualstudio,vscode,jetbrains" />
+</p>
 
+---
 
-##  What I Work On
+### Full Stack Overview
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,java,mysql,mssql,mongodb,rider,intellij,docker,visualstudio,vscode,jetbrains&perline=7" />
+</p>
+
+---
+
+## What I Work On
 - Backend systems & APIs  
 - Data-intensive applications  
 - Game development (scripts, gameplay systems)  
@@ -56,5 +65,5 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ---
 
-##  Connect With Me on LinkedIn
+## Connect With Me on LinkedIn
 - **LinkedIn:** https://www.linkedin.com/in/roham-h-fasih/
