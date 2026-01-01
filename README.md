@@ -31,12 +31,12 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Databases
 
-**SQL**
+**SQL**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mssql" />
 </p>
 
-**NoSQL**
+**NoSQL**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
@@ -45,14 +45,14 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rider,intellij,docker,visualstudio,vscode,jetbrains" />
+  <img src="https://skillicons.dev/icons?i=rider,intellij,docker,visualstudio,vscode" />
 </p>
 
 ---
 
 ### Full Stack Overview
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,java,mysql,mssql,mongodb,rider,intellij,docker,visualstudio,vscode,jetbrains&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,nodejs,java,mysql,mssql,mongodb,rider,intellij,docker,visualstudio,vscode&perline=7" />
 </p>
 
 ---
