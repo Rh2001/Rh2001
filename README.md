@@ -10,14 +10,14 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Languages & Runtimes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,HTML,cs,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,cs,nodejs,java" />
 </p>
 
 ---
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,HTML,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Full Stack Overview
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,HTML,tailwind,cpp,js,cs,nodejs,java,mysql,mongodb,rider,docker,visualstudio,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind,cpp,js,cs,nodejs,java,mysql,mongodb,rider,docker,visualstudio,vscode&perline=7" />
 </p>
 
 ---
