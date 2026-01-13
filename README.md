@@ -62,6 +62,7 @@ I primarily focus on backend infrastructure and system design, while also having
 - Data-intensive applications  
 - Game development (scripts, gameplay systems)  
 - Scalable web services  
+- Frontend and UX Design
 
 ---
 
