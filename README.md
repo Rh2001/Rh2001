@@ -10,7 +10,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Languages & Runtimes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,cs,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,python,cs,nodejs,java" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ I primarily focus on backend infrastructure and system design, while also having
 
 ### Full Stack Overview
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,tailwind,cpp,ts,js,cs,nodejs,java,mysql,mongodb,rider,docker,visualstudio,vscode,linux,unity&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind,cpp,ts,js,cs,python,nodejs,java,mysql,mongodb,rider,docker,visualstudio,vscode,linux,unity&perline=7" />
 </p>
 
 ---
